@@ -2,9 +2,9 @@
 
 
 
-[![Page Jogo](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)](https://fisiofaz.github.io/Jogo.YuGiOh.DIO/)
+[![Page Jogo]](https://fisiofaz.github.io/Jogo.YuGiOh.DIO/)
 
-[![GitHub Page](https://github.com/fisiofaz/Jogo.YuGiOh.DIO) ]
+[![GitHub Page] (https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)](https://github.com/fisiofaz/Jogo.YuGiOh.DIO) ]
 
 
 ## 💼 Sobre o projeto
